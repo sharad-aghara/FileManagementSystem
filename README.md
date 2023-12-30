@@ -9,10 +9,10 @@ This command-line interface (CLI) program allows users to navigate directories, 
 - JDK 17 preferred.
 
 ### Compile the Java code:
-``` javac FileOperationsCLI.java ```
+- javac FileOperationsCLI.java
 
 ### Run the program:
-``` java FileOperationsCLI ```
+- java FileOperationsCLI
 
 ### Customize the Initial Directory
 
