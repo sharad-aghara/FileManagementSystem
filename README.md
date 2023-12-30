@@ -43,15 +43,15 @@ By default, this program starts in the "E:/" directory. If you want to use a dif
 ## Usage Examples
 
 ### Change Directory
-
+```java
 - cd demofolder
 
 ### Navigate to the Parent Directory
-
+```java
 - cdparent
 
 ### List Files and Directories
-
+```java
 - ls
 
 ### Create a New Directory
