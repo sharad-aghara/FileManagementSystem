@@ -24,6 +24,11 @@ By default, this program starts in the "E:/" directory. If you want to use a dif
    ```java
    private static Path currentPath = Paths.get("E:/").toAbsolutePath().normalize();
 
+3. Modify the path to match your preferred starting directory. For example, if you want the program to start in the "C:/" directory, change the line to:
+   ``` java
+   private static Path currentPath = Paths.get("C:/").toAbsolutePath().normalize();
+   
+
 ## Commands
 
 - `cd <directory>`: Change the current directory.
