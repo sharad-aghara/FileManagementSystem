@@ -48,7 +48,7 @@ cd demofolder
 ```
 - Navigate to the Parent Directory
 ```
-cd parent
+cdparent
 ```
 - List Files and Directories
 ```
