@@ -66,6 +66,10 @@ rmdir demofolder
 ```
 createfile notes txt "This is Content."
 ```
+- Create a New File without Content
+```
+createfile notes2 txt
+```
 - Copy a File to Another Directory
 ```
 copy E:\demo\folder2\notes.txt E:\demo\folder1
