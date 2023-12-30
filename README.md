@@ -44,53 +44,53 @@ By default, this program starts in the "E:/" directory. If you want to use a dif
 
 ### Change Directory
 ```
-- cd demofolder
+cd demofolder
 ```
 
 ### Navigate to the Parent Directory
 ```
-- cdparent
+cd parent
 ```
 ### List Files and Directories
 ```
-- ls
+ls
 ```
 ### Create a New Directory
 ```
-- mkdir newfolder
+mkdir newfolder
 ```
 ### Delete a Directory
 ```
-- rmdir demofolder
+rmdir demofolder
 ```
 ### Create a New File with Content
 ```
-- createfile notes txt "This is Content."
+createfile notes txt "This is Content."
 ```
 ### Copy a File to Another Directory
 ```
-- copy E:\demo\folder2\notes.txt E:\demo\folder1
+copy E:\demo\folder2\notes.txt E:\demo\folder1
 ```
 ### Rename a File
 ```
-- rename notes.txt DataStructures.txt
+rename notes.txt DataStructures.txt
 ```
 ### Get Information About a File or Directory
 ```
-- info notes.txt
-- info folder2
+info notes.txt
+info folder2
 ```
 ### Delete a File
 ```
-- delete DataStructures.txt
+delete DataStructures.txt
 ```
 ### Search for Files by Name or Extension
 ```
-- search .docx
-- search notes
-- search notes.txt
+search .docx
+search notes
+search notes.txt
 ```
 ### Move a File to Another Directory
 ```
-- move E:\demo\folder2\notes.txt E:\demo\folder1
+move E:\demo\folder2\notes.txt E:\demo\folder1
 ```
