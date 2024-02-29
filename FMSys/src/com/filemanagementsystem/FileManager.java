@@ -21,7 +21,7 @@ public class FileManager {
 
         while (true) {
 
-            System.out.print("\nEnter a command: ");
+            System.out.print("\nEnter a Command: ");
             String command = sc.nextLine();
 
             if (command.equalsIgnoreCase("exit") || command.equalsIgnoreCase("0")) {
